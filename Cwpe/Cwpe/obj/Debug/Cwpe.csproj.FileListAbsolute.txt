@@ -1,0 +1,15 @@
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\bin\Debug\Cwpe.exe
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\bin\Debug\Cwpe.pdb
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.csprojResolveAssemblyReference.cache
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.Forms.frmProcessList.resources
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.frmMain.resources
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.Properties.Resources.resources
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.csproj.GenerateResource.Cache
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.exe
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.pdb
+c:\users\hupengpeng\documents\visual studio 2012\Projects\Cwpe\Cwpe\bin\Debug\BCMakeCert.dll
+C:\Users\Hupengpeng\Documents\Visual Studio 2012\Projects\Cwpe\Cwpe\bin\Debug\Cwpe.exe.config
+C:\Users\Hupengpeng\Documents\Visual Studio 2012\Projects\Cwpe\Cwpe\bin\Debug\CertMaker.dll
+C:\Users\Hupengpeng\Documents\Visual Studio 2012\Projects\Cwpe\Cwpe\bin\Debug\FiddlerCore4.dll
+C:\Users\Hupengpeng\Documents\Visual Studio 2012\Projects\Cwpe\Cwpe\bin\Debug\FiddlerCore4.xml
+C:\Users\Hupengpeng\Documents\Visual Studio 2012\Projects\Cwpe\Cwpe\obj\Debug\Cwpe.Forms.frmBrowser.resources
